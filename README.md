@@ -1,3 +1,3 @@
 # cricket-live
-http://raw.githack.com/KratosRepo/cricket-live/main/index.html
+http://raw.githack.com/pk3011/sptv/main/index.html
 
